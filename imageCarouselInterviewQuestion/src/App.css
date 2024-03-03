@@ -1,0 +1,18 @@
+.imageCar {
+  width: 100vw;
+  display: flex;
+
+  flex-direction: row;
+
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageCar img {
+  width: 60%;
+}
+
+.hide {
+  display: none;
+}
